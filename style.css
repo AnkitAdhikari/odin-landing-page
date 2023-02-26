@@ -58,6 +58,7 @@ header {
 .section-hero {
   background-color: #1f2937;
   padding: 6.4rem 0;
+  clip-path: ellipse(130% 90% at 40% 5%);
 }
 
 .hero {
