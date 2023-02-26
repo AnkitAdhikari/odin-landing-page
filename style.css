@@ -134,14 +134,15 @@ header {
   padding: 6.4rem 0;
   background-color: #e5e7eb;
 }
-
+.testimonial-box {
+  padding: 2.4rem 6.4rem;
+}
 .testimonial-text {
   font-size: 3rem;
   font-weight: 300;
   font-style: italic;
   color: #1f2937;
   line-height: 1.2;
-  padding: 2.4rem 6.4rem;
 }
 .testimonial-name {
   text-align: right;
