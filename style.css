@@ -34,7 +34,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-bottom: 4.8rem;
+  /* padding-bottom: 4.8rem; */
 }
 
 .nav-brand {
@@ -57,6 +57,7 @@ header {
 /* hero section styles */
 .section-hero {
   background-color: #1f2937;
+  padding: 6.4rem 0;
 }
 
 .hero {
