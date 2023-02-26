@@ -150,3 +150,32 @@ header {
   font-size: 1.4rem;
   letter-spacing: 0.1rem;
 }
+
+/* cta sectioin */
+.section-cta {
+  padding: 6.4rem 0;
+}
+/* 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128 */
+.cta-box {
+  display: flex;
+  gap: 8rem;
+  align-items: center;
+  background-color: #3882f6;
+  padding: 2.4rem 6.4rem;
+  border-radius: 0.8rem;
+  max-width: 70%;
+}
+.cta-heading {
+  font-size: 1.8rem;
+  color: #f9faf8;
+  padding-bottom: 0.8rem;
+}
+.cta-discripton {
+  font-size: 1.2rem;
+  color: #e5e7eb;
+  line-height: 1.2;
+}
+.btn-cta {
+  border: 2px solid #e5e7eb;
+  width: 10.1rem;
+}
