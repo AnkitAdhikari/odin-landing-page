@@ -179,3 +179,10 @@ header {
   border: 2px solid #e5e7eb;
   width: 10.1rem;
 }
+
+footer {
+  text-align: center;
+  padding: 3.2rem;
+  background-color: #1f2937;
+  color: #fff;
+}
