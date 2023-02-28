@@ -21,7 +21,7 @@ MERNify is the perfect tool for beginners and experienced developers alike. Join
 
 ### Get Started Now
 
-Visit our website at [mernify.com](https://www.mernify.com/) and sign up for our free trial. You'll get access to our entire library of courses and resources, so you can start learning right away.
+Visit our website at [mernify](https://ankitadhikari.github.io/odin-landing-page/) and sign up for our free trial. You'll get access to our entire library of courses and resources, so you can start learning right away.
 
 ### Testimonial
 
